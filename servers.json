@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "KVC Render Server",
-      "address": "https://onrender.com"
+      "address": "https://kvc-anisette-v3-server.onrender.com"
     }
   ]
 }
